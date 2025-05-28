@@ -18,20 +18,50 @@
 // }
 
 
-let c1=()=>{
+// let c1=()=>{
 
-let a=document.querySelector("#sm")
-a.style.color="red"
+// let a=document.querySelector("#box")
+// //a.style.color="red"
+// //a.style.backgroundColor="red"
 
-}
-let c2=()=>{
+// //a.innerHTML="Hello world"
+// a.style.backgroundImage="url('download.jpeg')"
+
+// }
+// let c2=()=>{
 
 
-    let b=document.querySelector("#sm1")
-    b.style.color="blue";
-}
+//     let b=document.querySelector("#box")
+//     // b.style.color="blue"
+//     b.style.backgroundImg=url="downlod.jpeng"
+//     b.style.border="5px solid red"
+// }
 
-let c3=()=>{
-    c=document.querySelector("#sm2")
-    c.style.color="green";
-}
+// let c3=()=>{
+//     c=document.querySelector("#box")
+//     c.style.color="green"
+//     c.style.backgroundColor="green"
+// }
+
+
+// let c4=()=>{
+//     d=document.querySelector("#box")
+//     d.style.backgroundColor=" "
+    
+// }
+
+
+
+
+
+
+
+
+let c1 = () => {
+  let a = document.querySelector("#box");
+
+
+
+  a.style.backgroundImage = "url('sm.jpg')";
+
+};
