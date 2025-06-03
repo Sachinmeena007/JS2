@@ -24,11 +24,3 @@ let b2=()=>{
     alert("or kitna click karoge mitra")
 }
 b2();
-let b3=()=>{
-    alert("Kya haal hai")
-}
-b1();
-let b4=()=>{
-    alert("or kitna click karoge mitra")
-}
-b5();
