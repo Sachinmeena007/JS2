@@ -57,11 +57,20 @@
 
 
 
-let c1 = () => {
-  let a = document.querySelector("#box");
+// let c1 = () => {
+//   let a = document.querySelector("#box");
 
 
 
-  a.style.backgroundImage = "url('sm.jpg')";
+//   a.style.backgroundImage = "url('sm.jpg')";
 
-};
+// };
+
+
+
+let a=document.getElementById('a')
+let b=document.getElementById('b')
+let c=document.getElementById('c')
+a.textContent="Sachin";
+b.textContent="Meena";
+c.innerHTML="<u>from js </u>";
