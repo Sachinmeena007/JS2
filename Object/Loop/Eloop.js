@@ -26,5 +26,5 @@ let welcome={
   City:"Bhopal"
 }
 for(let i in welcome){
-  console.log(i+ "=> "+welcome[i])
+  console.log(i+ "=> "+welcome[i]);
 }
