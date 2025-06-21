@@ -6,14 +6,12 @@
 }
 body{
 
-
-    font-family: 'arvo','serif';
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: black;
+    background: rgb(51, 1, 1);
     color: #fff;
 }
 #head{
@@ -21,28 +19,23 @@ padding-bottom: 50px;
 font-size: 2rem;
 
 }
-img{
-
-    max-width: 100%;
-
-}
 
 #img{
 
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
 
 }
 #btn{
 
     position: relative;
-    margin-top: 50px;
+    margin-top: 20px;
     padding: 15px;
-    background: #fff;
+    background: #e8edee;
     color: #000;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
-border-radius: 5px;
+border-radius: 2px;
 cursor: pointer;
 
 }

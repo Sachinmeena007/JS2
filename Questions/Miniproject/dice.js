@@ -7,9 +7,14 @@ img.setAttribute("src",`${random}.png`)
 
 }
 let anim=()=>{
-    setTimeout(roll,500);
+    
+    let sound = document.querySelector("#diceSound");
+sound.currentTime = 0; 
+    sound.play();
+
 let img=document.querySelector("#img")
 
 img.setAttribute("src",`dice-rol.gif`)
+setTimeout(roll,500);
 
 }
