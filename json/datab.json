@@ -1,0 +1,35 @@
+{
+
+
+    "Appoinment":[
+    {
+
+        "Name":"Sachin",
+        "Contect":7489231823,
+        "AppointDate":"2025-06-28",
+        "City":"Bhopal",
+        "Person":2,
+        "Amount":3000
+
+    },{
+
+        
+        "Name":"Prem",
+        "Contect":7089231823,
+        "AppointDate":"2025-06-28",
+        "City":"Vidisha",
+        "Person":1,
+        "Amount":1500
+    },{
+
+        
+        "Name":"Atul",
+        "Contect":7489234553,
+        "AppointDate":"2025-06-30",
+        "City":"Indore",
+        "Person":2,
+        "Amount":3000
+    }
+
+    ]
+}
